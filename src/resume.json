@@ -1,0 +1,143 @@
+{
+	"name": "Pierre Mbe Fokam",
+	"email": "mbefokam2@gmail.com",
+	"phone": "201 780 2346",
+	"image": "https://www.linkedin.com/in/pierre-antoine-mbe-fokam-a3800114a/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B1aYwT2juRmWYjHSxIkpFoQ%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_feed-identity_profile_photo",
+	"Linkedin": "https://www.linkedin.com/in/pierre-antoine-mbe-fokam-a3800114a/",
+	"GithubPersonal": "https://github.com/mbefokam",
+	"GithubOthers": "https://github.com/carnetshealth",
+	"experiences" : [
+		{
+			"title" : "Senior Software Engineer",
+			"period": "June, 2017 - Present",
+			"company": "JPMorgan Chase & Co., Jersey City NJ",
+			"companyURL": "",
+			"details": [
+				"Participate actively in the complete software development lifecycle, including performance analysis, design, development, and testing",
+				"Assist other developers in delivery techniques and test driven design",
+				"Develop domain model and persistence layer for the GUI using Hibernate and JPA",
+				"Engage in and lead application performance tuning",
+				"Share best practices within and across development team members",
+				"Ensure solid, minimal-defect code by performing unit testing with Cumber and JUnit test cases and through rigorous integration testing of the entire application",
+				"Develop fully automated deployment processes for end to end integration testing using Concourse and Cloud Foundry",
+				"Participate in Spring Boot GraphQL API Design ground development process using SPQR Library ",
+				"Design Loosely coupled Microservices using Restful API"
+			]
+		},
+		{
+			"title" : "Application Developer II",
+			"period": "June, 2015 - June 2017",
+			"company": "UnitedHealth Group, Basking Ridge, NJ",
+			"companyURL": "",
+			"details": [
+				"Led design and development of Micro Services, leveraging  REST APIs (Java and Node.js) part of the Legacy  Assets Modernization",
+				"Used advanced algorithm approach  to optimize performance and scalability of claim processing service from mainframe to the cloud",
+				"Designed and Developed reusable software templates/blue-prints to target specific departmental use-cases",
+				"Trained teams (in North Carolina and New Jersey) on the topic of Test Driven Design approach as part of Agile quality delivery process",
+				"Create a boilerplate Rest API Template to enhance team groud zero productivity in Java EE ecosystem",
+				"Collaborated with senior Management in exploring and training team members in new technologies that were later adopted, such as Jenkins and Cloud Infrastructure",
+				"Implement Application Authentication Json Web Token (JWT) in Java ",
+				"Wrote Java application to parse database for data cleaning and databse transformation"
+			]
+		},
+		{
+			"title" : "Software Developer",
+			"period": "June, 2014 - June, 2015",
+			"company": "Ronald E. McNair, Newark NJ",
+			"companyURL": "",
+			"details": [
+				"Build network to routing packages and performed segmentation using python",
+        "Configure DHCP server on Linux Ubuntu ",
+        "Designed socket programs for client and server.",
+        "Pinged packet on the traffic from visible emitter part of VLC",
+        "Performed Multi-threading Network stress and security testing.",
+        "Pinged packet on the route side and track the transformation form light transfer to physical location",
+        "Tested mirror server and optimized reflection package traffic.",
+        "Benchmarked Java socket client performance versus python socket client"
+			]
+		}
+	],
+	"projects": [
+		{
+			"name":"Burt it System",
+			"url": "https://github.com/mbefokam/burn-it-system",
+			"detail": "Health Management Application, Enable users to leverage technology to manage and control their diet."
+		},
+		{
+			"name":"Data Platform",
+			"url": "https://github.com/mbefokam/data_platform",
+			"detail": "Micro Service to read the list of all behavioral health facilities in NYC, clean the data and expose Rest Endpoints"
+		},
+		{
+			"name":"Financial Porfolio",
+			"url": "https://github.com/mbefokam/financialPorfolioPHP",
+			"detail": "Stock optimizer, to predict stock helavior given market changes"
+		},
+		{
+			"name":"Tontine App",
+			"url": "https://github.com/mbefokam/tontineApp",
+			"detail": " REST Application to manage the finances of a community"
+		}
+	],
+	"skills": [
+		{
+			"name": "Java EE, Spring Boot, Spring MVC,JAXB, JAX-RS, JAX-WS, Apache Camel",
+			"percent": "98%"
+		},
+		{
+			"name": "Javascript ES6 & React, Redux, React Native and Node JS, Express",
+			"percent": "90%"
+		},
+		{
+			"name": "PAAS (OPENSHIFT V3, AWS, Cloud Foundry)",
+			"percent": "80%"
+		},
+		{
+			"name": "SAAS(Jenkins, Version Control, Concourse CI, Maven)",
+			"percent": "85%"
+		},
+		{
+			"name": "Services Design(Restful API, GraphQL API and SOAP API) ",
+			"percent": "95%"
+		},
+		{
+			"name": "Architecture Design (Database Modeling, Application Component Design)",
+			"percent": "90%"
+		}
+	],
+	"education": [
+		{
+			"degree": "MSc in Software Engineering",
+			"university": "New Jersey Institute of Technology",
+			"period": "2015 - 2017"
+		},
+		{
+			"degree": "BSc in Computer Engineering",
+			"university": "New Jersey Institute of Technology",
+			"period": "2012 - 2015"
+		},
+		{
+			"degree": "BSc in Mechatronic Engineering",
+			"university": "UCSI University",
+			"period": "2008 - 2010"
+		}
+	],
+	"languages": [
+		{
+			"name":"English",
+			"details": "Professional"
+		},
+		{
+			"name":"French",
+			"details": "Native"
+		}
+	],
+	"interests": [
+		"Coding",
+		"Follow Tech trends",
+		"History"
+	],
+	"WorkAuthorization": [
+		"United State Citizen"
+	]
+}
